@@ -1,3 +1,2 @@
 # NLP_toy_project
-Kaggle
-Quora Insincere Questions Classification
+Kaggle-Quora Insincere Questions Classification
